@@ -1,0 +1,29 @@
+{
+  "name": "t-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nx run-many --skip-nx-cache --target=start --projects=resolver,shell",
+    "build": "npx nx run-many --target=build --projects=product-buy-box,product-teaser,product-tile,shop-footer,shop-header --maxParallel=10",
+    "build:stats": "npx nx run-many --skip-nx-cache --target=build:stats --projects=product-buy-box,product-teaser,product-tile,shop-footer,shop-header --maxParallel=10"
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "shell",
+    "resolver",
+    "mfs/product-buy-box",
+    "mfs/product-teaser",
+    "mfs/product-tile",
+    "mfs/shop-footer",
+    "mfs/shop-header"
+  ],
+  "devDependencies": {
+    "@nrwl/nx-cloud": "latest",
+    "nx": "15.2.1"
+  },
+  "dependencies": {
+    "@nrwl/workspace": "^15.2.1"
+  }
+}

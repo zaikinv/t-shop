@@ -1,0 +1,28 @@
+{
+  "name": "product-teaser",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build && publisher",
+    "build:stats": "vite build && node publish.js && open 'stats.html'",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.json"
+  },
+  "devDependencies": {
+    "publisher": "file:../../publisher",
+    "@sveltejs/vite-plugin-svelte": "^1.1.0",
+    "@tsconfig/svelte": "^3.0.0",
+    "open": "^8.4.0",
+    "rollup-plugin-visualizer": "^5.8.3",
+    "sass": "^1.56.1",
+    "svelte": "^3.52.0",
+    "svelte-check": "^2.9.2",
+    "svelte-preprocess": "^4.10.7",
+    "tslib": "^2.4.0",
+    "typescript": "^4.6.4",
+    "vite": "^3.2.3",
+    "vite-plugin-css-injected-by-js": "^2.1.1"
+  }
+}

@@ -1,6 +1,6 @@
 ## Description
 
-Demo shop for the article [You Might Not Need Module Federation: Orchestrate your Microfrontends at Runtime with Import Maps]().
+Demo shop for the article [You Might Not Need Module Federation: Orchestrate your Microfrontends at Runtime with Import Maps](https://dev.to/zaikivla/you-might-not-need-module-federation-orchestrate-your-microfrontends-at-runtime-with-import-maps-3n82).
 
 ## Prerequisites
 

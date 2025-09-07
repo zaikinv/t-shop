@@ -1,5 +1,5 @@
-import { LitElement, css, html } from "lit";
-import { assign } from 'lodash-es'
+import { css, html, LitElement } from "lit";
+import { assign } from "lodash-es";
 
 /**
  * An example element.
@@ -26,7 +26,7 @@ export class ProductTile extends LitElement {
     const canvasLeft = `${87 * scale}px`;
     const canvasTop = `${65 * scale}px`;
 
-    assign({ a: 1, c: 3 }, { a: 0 })
+    assign({ a: 1, c: 3 }, { a: 0 });
 
     assign(this.shadowRoot.getElementById("tshirt-div").style, {
       width,
@@ -54,7 +54,7 @@ export class ProductTile extends LitElement {
 
     img.addEventListener(
       "load",
-      function () {
+      () => {
         // Uncomment to hang in there
         canvas.height = canvasHeight;
         canvas.width = canvasWidth;
@@ -63,7 +63,7 @@ export class ProductTile extends LitElement {
       false
     );
 
-    img.src = `https://loremflickr.com/${canvasHeight}/${canvasWidth}/${this.category}?lock=${this.id}`;
+    img.src = `https://picsum.photos/seed/${this.id}/${canvasHeight}/${canvasWidth}`;
   }
 
   constructor() {

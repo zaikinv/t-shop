@@ -1,0 +1,7 @@
+node_modules
+
+# Stats files
+**/stats.html
+
+# Resolver assets
+resolver/assets/

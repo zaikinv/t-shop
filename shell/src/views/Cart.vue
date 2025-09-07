@@ -74,7 +74,6 @@ const productsStore = useProductsStore();
   height: 20rem;
   border-top: 1px dashed black;
   border-bottom: 1px dashed black;
-  margin-bottom: 2rem;
 }
 
 .container-total-price {

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0677be53-cb08-414c-b50a-6081e8bcc47f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfs/product-buy-box/stats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfs/product-teaser/stats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfs/product-tile/src/product-tile.js" beforeDir="false" afterPath="$PROJECT_DIR$/mfs/product-tile/src/product-tile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfs/product-tile/stats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfs/shop-footer/stats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mfs/shop-header/stats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.09f234f3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.0f417927.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.12d43124.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.15f1589d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.1ec8fe1a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.1fb97ea4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.22d83470.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.272cca49.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.2af3ca30.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.2c38790c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.2df3749a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.2e5d0070.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.326dabd6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.3770b955.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.425aa15d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.46408477.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.4a6c76fd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.50651f82.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.5475c608.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.5663cffd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.6657a339.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.674228f5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.6dddba03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.6e1c82dd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.78bc21a0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.7f19381f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.85e76b39.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.868e301c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.8902b0a1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.891d93e6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.8945f1c8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.8ac80d6c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.913eb15f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.9d4492c1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.a1ef4fa2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.a5aa76a3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.acf5bd1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.b586c096.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.b831b7d0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.c8402446.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.cb81738e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.cbd4d2e3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.cc03bc17.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.cdc580cd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.d8901cc2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.e31fe932.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.e854114a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.eb093249.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.f09f18a2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.f5193c56.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.f6e17d27.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.f87d0d78.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.f91ae3cf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.fb458d74.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.fd65c206.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.fdfb472f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/index.fee078f9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resolver/assets/product-tile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shell/src/views/Cart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/shell/src/views/Cart.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="32N8kz4mWeLij3abkSlnrDkawSo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/zaikivla/dev/vercel/t-shop/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0677be53-cb08-414c-b50a-6081e8bcc47f" name="Changes" comment="" />
+      <created>1757249816167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757249816167</updated>
+      <workItem from="1757249817372" duration="2483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
